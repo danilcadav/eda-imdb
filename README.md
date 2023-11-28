@@ -1,1 +1,2 @@
-"# eda-imdb" 
+EDA - IMDb dataset,
+recommendation system
